@@ -9,7 +9,7 @@
  * Plugin Name: Theme.id's Caldera Form to Slack
  * Plugin URI: http://caladea.com
  * Description: Send notifications to Slack channels when certain on Caldera Form submission.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Theme.id
  * Author URI: https://theme.id
  * Text Domain: caladea-slack
